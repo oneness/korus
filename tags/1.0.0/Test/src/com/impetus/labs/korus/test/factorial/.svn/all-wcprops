@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/factorial
+END
+ParallelFactorial.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/factorial/ParallelFactorial.java
+END
+ParallelFactorialTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/factorial/ParallelFactorialTest.java
+END
+SerialFactorial.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/factorial/SerialFactorial.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/pipeline
+END
+PipelineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/pipeline/PipelineTest.java
+END
+WriteTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/pipeline/WriteTask.java
+END
+TransformTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/pipeline/TransformTask.java
+END
+ReadTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/pipeline/ReadTask.java
+END
+SerialRTWTextFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/pipeline/SerialRTWTextFile.java
+END

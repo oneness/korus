@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/spearsman
+END
+RowOfCC.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/spearsman/RowOfCC.java
+END
+ParallelSpearmans.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/spearsman/ParallelSpearmans.java
+END
+ParallelSpearmansTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/spearsman/ParallelSpearmansTest.java
+END
+SerialSpearmans.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/360/tags/1.0.0/Test/src/com/impetus/labs/korus/test/spearsman/SerialSpearmans.java
+END

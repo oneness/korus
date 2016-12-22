@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/352/trunk/Product/korus/src/com/impetus/labs/korus/exception
+END
+ProcessAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/352/trunk/Product/korus/src/com/impetus/labs/korus/exception/ProcessAlreadyExistsException.java
+END
+KorusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/352/trunk/Product/korus/src/com/impetus/labs/korus/exception/KorusException.java
+END
+KeyNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/352/trunk/Product/korus/src/com/impetus/labs/korus/exception/KeyNotFoundException.java
+END

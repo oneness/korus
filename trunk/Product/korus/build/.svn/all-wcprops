@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/352/trunk/Product/korus/build
+END
+ant.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/352/trunk/Product/korus/build/ant.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/352/trunk/Product/korus/build/build.xml
+END

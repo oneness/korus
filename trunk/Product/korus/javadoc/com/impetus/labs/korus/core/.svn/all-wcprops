@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/355/trunk/Product/korus/javadoc/com/impetus/labs/korus/core
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/355/trunk/Product/korus/javadoc/com/impetus/labs/korus/core/package-use.html
+END
+KorusReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/355/trunk/Product/korus/javadoc/com/impetus/labs/korus/core/KorusReader.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/355/trunk/Product/korus/javadoc/com/impetus/labs/korus/core/package-summary.html
+END
+KorusRuntime.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/355/trunk/Product/korus/javadoc/com/impetus/labs/korus/core/KorusRuntime.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/355/trunk/Product/korus/javadoc/com/impetus/labs/korus/core/package-tree.html
+END
+KorusWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/355/trunk/Product/korus/javadoc/com/impetus/labs/korus/core/KorusWriter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/355/trunk/Product/korus/javadoc/com/impetus/labs/korus/core/package-frame.html
+END

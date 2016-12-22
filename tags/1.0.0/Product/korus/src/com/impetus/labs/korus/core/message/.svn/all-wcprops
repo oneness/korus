@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/360/tags/1.0.0/Product/korus/src/com/impetus/labs/korus/core/message
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/360/tags/1.0.0/Product/korus/src/com/impetus/labs/korus/core/message/Message.java
+END
+SerializableMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/360/tags/1.0.0/Product/korus/src/com/impetus/labs/korus/core/message/SerializableMessage.java
+END
+RawMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/360/tags/1.0.0/Product/korus/src/com/impetus/labs/korus/core/message/RawMessage.java
+END
